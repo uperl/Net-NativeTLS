@@ -1,5 +1,4 @@
 Net-NativeTLS-*
 /.build/
 *.swp
-
-
+/ffi/target/
