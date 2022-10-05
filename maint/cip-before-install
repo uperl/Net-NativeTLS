@@ -3,3 +3,6 @@
 set -ex
 
 cip pkg rust
+
+cip exec dzil-cpanm -n FFI::Platypus::Lang::Rust
+cip exec cpanm -n FFI::Platypus::Lang::Rust
