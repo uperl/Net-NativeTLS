@@ -1,0 +1,5 @@
+Net-NativeTLS-*
+/.build/
+*.swp
+
+
